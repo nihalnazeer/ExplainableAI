@@ -1,3 +1,0 @@
-training[[:space:]]data/X_train.npy filter=lfs diff=lfs merge=lfs -text
-training[[:space:]]data/X_test.npy filter=lfs diff=lfs merge=lfs -text
-mybook/lib/python3.12/site-packages/tensorflow/libtensorflow_cc.2.dylib filter=lfs diff=lfs merge=lfs -text
